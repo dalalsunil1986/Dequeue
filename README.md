@@ -1,15 +1,21 @@
-# Dequeue
 
-A University Proyect of Class Algorithms and Data Structures
+
+# Dequeue
+This is a University Proyect of Class Algorithms and Data Structures.
+
+## What is?
+Double ended queues are sequence containers with the feature that nodes can be add at the front and the end. 
 
 ## Funcions
 
--Add Front Node
--Add Back Node
--Pop Front Node
--Pop Back Node
+Graphic interface with animations and buttons to : 
 
-### Installing
+-Add Front Node                                                                                                  
+-Add Back Node      
+-Pop Front Node                               
+-Pop Back Node                            
+
+## Installing
 
 Download or clone the proyect and Import in Android Studio.
 
