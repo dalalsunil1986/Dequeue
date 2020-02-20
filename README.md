@@ -21,7 +21,7 @@ Download or clone the proyect and Import in Android Studio.
 
 ## Screenshoots
 
-<img src="https://raw.githubusercontent.com/salvadordeveloper/Dequeue//master/screenshoots/1.JPG" width="450" height="250" />
+<img src="https://media.giphy.com/media/UUn3xRbpvskL84wtkQ/giphy.gif" width="450" height="250" />
 
 ## Built With
 
