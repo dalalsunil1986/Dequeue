@@ -12,14 +12,12 @@ public class NodeD extends Actor {
     public NodeD next;
     public NodeD prev;
 
-    public float sX;
 
     public NodeD(float x, float y, float width, float height) {
         setPosition(x, y);
         setSize(width, height);
         texture = new Texture(Gdx.files.internal("Nodo.png"));
     }
-
 
     @Override
     public void draw(Batch batch, float parentAlpha) {
