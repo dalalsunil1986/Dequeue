@@ -1,7 +1,7 @@
 
 
 # Dequeue
-This is a University Proyect of Class Algorithms and Data Structures.
+This is a University Project of Class Algorithms and Data Structures.
 
 ## What is?
 Double ended queues are sequence containers with the feature that nodes can be add at the front and the end. 
